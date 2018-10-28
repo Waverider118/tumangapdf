@@ -1,0 +1,19 @@
+{
+    "name": "Tu Manga en PDF",
+    "short_name": "Tu Manga en PDF",
+    "icons": [
+        {
+            "src": "https://3.bp.blogspot.com/-U29JyyAic6o/W9YKzSElCAI/AAAAAAAAH1Q/RD4XsbHYRLwFco1MJAxVhOHIIfQ5hIjQwCLcBGAs/s1600/00002.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://3.bp.blogspot.com/-U29JyyAic6o/W9YKzSElCAI/AAAAAAAAH1Q/RD4XsbHYRLwFco1MJAxVhOHIIfQ5hIjQwCLcBGAs/s1600/00002.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
